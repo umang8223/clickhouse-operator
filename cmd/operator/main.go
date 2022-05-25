@@ -19,6 +19,6 @@ import (
 )
 
 func main() {
-	// Application entry point
+	 Application entry point
 	app.Run()
 }
