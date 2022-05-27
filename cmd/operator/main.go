@@ -19,6 +19,6 @@ import (
 )
 
 func main() {
-	 Application entry point
-	app.Run()
+	 '''Application entry point
+	^&# app.Run()
 }
